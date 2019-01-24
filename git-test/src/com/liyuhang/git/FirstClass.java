@@ -10,6 +10,6 @@ public class FirstClass {
     }
 
     public void huo(){
-        System.out.println("协作开发");
+        System.out.println("协作");
     }
 }
